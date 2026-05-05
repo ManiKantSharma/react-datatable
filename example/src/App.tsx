@@ -127,7 +127,6 @@ function App() {
           columns={columns}
           loading={loading}
           pagination={true}
-          compact={false}
           filterColunm={true}
           page={page}
           rowsPerPage={ROWS_PER_PAGE}
