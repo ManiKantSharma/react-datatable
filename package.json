@@ -1,6 +1,6 @@
 {
-  "name": "@manikantsharma/react-datatable",
-  "version": "1.0.4",
+  "name": "react-mkx-datatable",
+  "version": "1.0.0",
   "description": "A premium, lightweight datatable for React built with @mui/material. No heavy dependencies.",
   "main": "dist/index.js",
   "module": "dist/index.js",

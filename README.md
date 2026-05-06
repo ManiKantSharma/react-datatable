@@ -1,7 +1,7 @@
-# @manikantsharma/react-datatable
+# react-mkx-datatable
 
-![NPM](https://img.shields.io/badge/Author-Mani%20Kant%20Sharma-blue) ![npm](https://img.shields.io/npm/v/@manikantsharma/react-datatable?color=6366f1)
-![npm](https://img.shields.io/npm/dt/@manikantsharma/react-datatable) ![NPM](https://img.shields.io/npm/l/@manikantsharma/react-datatable) ![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/@manikantsharma/react-datatable)
+![NPM](https://img.shields.io/badge/Author-Mani%20Kant%20Sharma-blue) ![npm](https://img.shields.io/npm/v/react-mkx-datatable?color=6366f1)
+![npm](https://img.shields.io/npm/dt/react-mkx-datatable) ![NPM](https://img.shields.io/npm/l/react-mkx-datatable) ![NPM Unpacked Size](https://img.shields.io/npm/unpacked-size/react-mkx-datatable)
 
 A premium, lightweight, and highly customizable Datatable component for React built with @mui/material. Features sorting, pagination, column visibility persistence, and polished loading states.
 
@@ -20,11 +20,11 @@ A premium, lightweight, and highly customizable Datatable component for React bu
 ## Installation
 
 ```bash
-npm install @manikantsharma/react-datatable
+npm install react-mkx-datatable
 # or
-yarn add @manikantsharma/react-datatable
+yarn add react-mkx-datatable
 # or
-pnpm add @manikantsharma/react-datatable
+pnpm add react-mkx-datatable
 ```
 
 ### Peer Dependencies
@@ -38,7 +38,7 @@ npm install react react-dom @mui/material @emotion/react @emotion/styled
 ## Quick Start
 
 ```tsx
-import { DataTable, type TableColumn } from "@manikantsharma/react-datatable";
+import { DataTable, type TableColumn } from "react-mkx-datatable";
 import React from "react";
 
 interface User {

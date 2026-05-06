@@ -1,4 +1,4 @@
-import { DataTable, type TableColumn } from '@manikantsharma/react-datatable';
+import { DataTable, type TableColumn } from 'react-mkx-datatable';
 import { Box, Chip, Container, createTheme, CssBaseline, ThemeProvider, Typography } from '@mui/material';
 import { useState } from 'react';
 
